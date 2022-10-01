@@ -1,7 +1,7 @@
 - 👋 olá eu sou o Pedro Bicalho
 - 👀 eu tenho interesse em estágio para o aprendizado
-- 🌱 atualmente eu estou no ensino médio tecnico em informática
-- 💞️ eu gosto de trabalhar com tudo sendo: design(photoshop), programação(HTML,C), hardware(arduino), e entre outros
+- 🌱 atualmente eu estou no ensino médio tecnico de informática
+- 💞️ eu faço de tudo, sendo: design(photoshop), programação(HTML,C), hardware(arduino), e entre outros
 - 📫 pedrobicalho09123@gmail.com
 
 <!---
